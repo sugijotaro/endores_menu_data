@@ -1,0 +1,14 @@
+{
+  "menus": [
+    {
+      "id": "5qGqqpiFAz4z3SXD",
+      "name": "チョコクロワッサン",
+      "price": 178,
+      "description": "サクサクとしたクロワッサン生地で口どけの良い板チョコとココア風味フィリングを巻き込みました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/5qGqqpiFAz4z3SXD.jpg",
+      "category": "FOOD",
+      "subcategory": "CROISSANT",
+      "isSeasonalRecommendation": false
+    }
+  ]
+}
