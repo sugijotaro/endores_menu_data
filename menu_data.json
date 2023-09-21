@@ -9,6 +9,226 @@
       "category": "FOOD",
       "subcategory": "CROISSANT",
       "isSeasonalRecommendation": false
+    },
+    {
+      "id": "FREvBpFC2aeYQDxJ",
+      "name": "抹茶クリーム餡クロワッサン",
+      "price": 178,
+      "description": "宇治抹茶入りのクロワッサン生地に、粒餡と宇治抹茶を使用したクリームを包んで焼き上げました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/FREvBpFC2aeYQDxJ.jpg",
+      "category": "FOOD",
+      "subcategory": "CROISSANT",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "g2VqpSRtLag0xXrX",
+      "name": "餡クロワッサン",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "CROISSANT",
+      "description": "サクサクとした風味の良いクロワッサン生地で、ほのかな塩味が効いた粒餡をたっぷりと包みました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/g2VqpSRtLag0xXrX.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "4YWzkexVERzrxlbM",
+      "name": "クリームデニッシュ",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "DANISH",
+      "description": "外はサクサク、中はしっとりとしたデニッシュ生地で北海道産牛乳を使用したなめらかなクリームを包んだ製品です。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/4YWzkexVERzrxlbM.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "7BLX4W77KbAxbn4M",
+      "name": "ハムチーズデニッシュ",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "DANISH",
+      "description": "サクサクのデニッシュ生地に、ハムと北海道産チーズ入りクリームを挟みました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/7BLX4W77KbAxbn4M.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "fIHdYxB4ip56frfn",
+      "name": "メープルチーズと林檎のデニッシュ",
+      "price": 198,
+      "category": "FOOD",
+      "subcategory": "DANISH",
+      "description": "メープル風味のさっくりとしたデニッシュ生地に、チーズフィリング、ラム酒に漬けたリンゴスライスを包み焼き上げました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/fIHdYxB4ip56frfn.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "aqxqarKS3GdtEXfy",
+      "name": "チーズデニッシュ棒",
+      "price": 188,
+      "category": "FOOD",
+      "subcategory": "DANISH",
+      "description": "サクッとした食感のデニッシュ生地にフランス産カマンベールチーズパウダーを使用したチーズフィリングを包みました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/aqxqarKS3GdtEXfy.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "f2BVwNuNU66SmlA7",
+      "name": "明太スティックデニッシュ",
+      "price": 188,
+      "category": "FOOD",
+      "subcategory": "DANISH",
+      "description": "胚芽入りのデニッシュ生地で、明太子マヨフィリングを包み焼き上げました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/f2BVwNuNU66SmlA7.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "tUSuYWByUaDwW3Za",
+      "name": "やわらかマフィン（チョコ）",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "SWEET_BREAD",
+      "description": "ブラックココアとチョコチップを練り込んだ、もっちりしっとりしたマフィンです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/tUSuYWByUaDwW3Za.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "rOY1x48vyajmFmXo",
+      "name": "やわらかマフィン（プレーン）",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "SWEET_BREAD",
+      "description": "",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/rOY1x48vyajmFmXo.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "MHvoAEbRZlDZz6D2",
+      "name": "チョコチップメロンパン",
+      "price": 198,
+      "category": "FOOD",
+      "subcategory": "SWEET_BREAD",
+      "description": "ふんわりとしたココア風味の菓子パン生地に、生クリームを配合したチョコチップ入りビス生地を被せたメロンパンです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/MHvoAEbRZlDZz6D2.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "85TiStzNy63b8TZl",
+      "name": "チーズ蒸しパン",
+      "price": 138,
+      "category": "FOOD",
+      "subcategory": "SWEET_BREAD",
+      "description": "チーズ風味豊かな蒸しパンです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/85TiStzNy63b8TZl.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "mwa3G8LY3asZWfwg",
+      "name": "メロンパン",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "SWEET_BREAD",
+      "description": "風味の良い菓子パン生地にサクサクのビスケット生地を被せて焼き上げました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/mwa3G8LY3asZWfwg.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "paEsrPbmIvmkFqzR",
+      "name": "はちみつバターパン",
+      "price": 138,
+      "category": "FOOD",
+      "subcategory": "MEAL_BREAD",
+      "description": "北海道産のはちみつと北海道産バター入りマーガリンのスプレッドをダイスチーズを練り込んだ生地で包み焼き上げた食事パンです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/paEsrPbmIvmkFqzR.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "iHYHBklVrH3rImCf",
+      "name": "てりやきチキンピザ",
+      "price": 228,
+      "category": "FOOD",
+      "subcategory": "SAVORY_BREAD",
+      "description": "パンピザ生地に、照り焼きソースを塗り、照り焼きチキンをトッピングしました。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/iHYHBklVrH3rImCf.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "uBVC7XWQFk1BRMD9",
+      "name": "コーンマヨネーズ",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "SAVORY_BREAD",
+      "description": "ふんわりとした菓子生地にコーンマヨフィリングをたっぷり絞った定番商品です。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/uBVC7XWQFk1BRMD9.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "7aMXmBUump1jz6lD",
+      "name": "ツナサラダパン",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "SAVORY_BREAD",
+      "description": "ふんわりとした生地にツナサラダフィリングをトッピングした、定番の惣菜パンです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/7aMXmBUump1jz6lD.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "C3JAsrQl49IyeQEJ",
+      "name": "ミックスピザ",
+      "price": 228,
+      "category": "FOOD",
+      "subcategory": "SAVORY_BREAD",
+      "description": "パンピザ生地に、ピザソースを塗り、ベーコン、ピーマン、コーンをトッピングした定番のピザです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/C3JAsrQl49IyeQEJ.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "8YF5KzOXw0bITqsN",
+      "name": "明太ポテトマヨ",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "SAVORY_BREAD",
+      "description": "ふんわりとした生地に、明太ポテトフィリングをトッピングした惣菜パンです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/8YF5KzOXw0bITqsN.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "PIjag68GH73ot83d",
+      "name": "カリカリカレーパン",
+      "price": 178,
+      "category": "FOOD",
+      "subcategory": "DONUT",
+      "description": "歯切れのよいドーナツ生地に豚肉を使用した香り高いカレーフィリングを包み、バッタ液とカラーパン粉でカリカリに仕上げたカレードーナツです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/PIjag68GH73ot83d.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "iS0eROv1EB9bIfqb",
+      "name": "チュロス",
+      "price": 168,
+      "category": "FOOD",
+      "subcategory": "DONUT",
+      "description": "",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/iS0eROv1EB9bIfqb.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "b6hmkYZDuZiAV3TE",
+      "name": "フライドアップルパイ",
+      "price": 168,
+      "category": "FOOD",
+      "subcategory": "DONUT",
+      "description": "大粒のリンゴダイス入りシナモンリンゴジャムをさっくりとしたパイ生地で包んだ、カリカリ食感のフライドパイです。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/b6hmkYZDuZiAV3TE.jpg",
+      "isSeasonalRecommendation": false
+    },
+    {
+      "id": "mCKE5et02vOwMdK0",
+      "name": "チュロス（チョコ）",
+      "price": 168,
+      "category": "FOOD",
+      "subcategory": "DONUT",
+      "description": "人気No.1のチュロスにチョコ味登場。チョコレート生地とざくざく砂糖コーティングは相性間違いナシ。",
+      "imageUrl": "https://sugijotaro.github.io/endores_menu_data/images/mCKE5et02vOwMdK0.jpg",
+      "isSeasonalRecommendation": false
     }
   ]
 }
